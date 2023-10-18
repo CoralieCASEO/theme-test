@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "test": {
+            "name": "Test",
+            "repo": "https://github.com/CoralieCASEO/theme-test/tree/master",
+            "zip": "https://github.com/CoralieCASEO/theme-test/archive/master.zip",
+            "summary": "Test theme",
+            "version": "1.0.0",
+            "image": "https://raw.githubusercontent.com/robiso/sky/master/preview.jpg"
+        }
+    }
+}
